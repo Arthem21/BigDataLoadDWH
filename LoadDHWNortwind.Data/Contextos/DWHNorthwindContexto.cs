@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace LoadDHWNortwind.Data.Contexto
 {
-    internal class DWHNorthwindContexto: DbContext
+    public class DWHNorthwindContexto: DbContext
     {
         public DWHNorthwindContexto(DbContextOptions<DWHNorthwindContexto> options) : base(options) { }
 
