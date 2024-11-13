@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoadDHWNortwind.Data", "LoadDHWNortwind.Data\LoadDHWNortwind.Data.csproj", "{6E27275A-9A29-49AC-A4C6-713C2F60724E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadDWHNorthwind.WorkerService", "LoadDWHNorthwind.WorkerService\LoadDWHNorthwind.WorkerService.csproj", "{51C6AE5C-B3EA-4008-9C36-344FB974234A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E27275A-9A29-49AC-A4C6-713C2F60724E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E27275A-9A29-49AC-A4C6-713C2F60724E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E27275A-9A29-49AC-A4C6-713C2F60724E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E27275A-9A29-49AC-A4C6-713C2F60724E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C6AE5C-B3EA-4008-9C36-344FB974234A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C6AE5C-B3EA-4008-9C36-344FB974234A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C6AE5C-B3EA-4008-9C36-344FB974234A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C6AE5C-B3EA-4008-9C36-344FB974234A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDBA1400-DD15-4F8F-9196-755B442E7CE4}
+	EndGlobalSection
+EndGlobal
