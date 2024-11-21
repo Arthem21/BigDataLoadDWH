@@ -1,0 +1,13 @@
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\bin\Debug\net8.0\LoadDHWNorthwind.Data.deps.json
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\bin\Debug\net8.0\LoadDHWNorthwind.Data.dll
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\bin\Debug\net8.0\LoadDHWNorthwind.Data.pdb
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\LoadDHWNorthwind.Data.csproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\LoadDHWNorthwind.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\LoadDHWNorthwind.Data.AssemblyInfoInputs.cache
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\LoadDHWNorthwind.Data.AssemblyInfo.cs
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\LoadDHWNorthwind.Data.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\LoadDHWNorthwind.Data.sourcelink.json
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\LoadDHWNorthwind.Data.dll
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\refint\LoadDHWNorthwind.Data.dll
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\LoadDHWNorthwind.Data.pdb
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\ref\LoadDHWNorthwind.Data.dll

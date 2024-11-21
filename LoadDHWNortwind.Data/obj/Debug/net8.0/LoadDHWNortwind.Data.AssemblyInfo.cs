@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoadDHWNortwind.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+865c784c724840dc60b8f2d80a0ce211292ba389")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa9f3c330ef0461f2cabcc14a8213adc2e39bead")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoadDHWNortwind.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoadDHWNortwind.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

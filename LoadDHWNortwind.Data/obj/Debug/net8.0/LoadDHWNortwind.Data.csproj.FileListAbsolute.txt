@@ -10,3 +10,4 @@ C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\
 C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\LoadDHWNortwind.Data.pdb
 C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\ref\LoadDHWNortwind.Data.dll
 C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\LoadDHWNortwind.Data.csproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\Documentos\tareas\cuatrimestre #4\Electiva 1 (Big Data)\LoadDWHNorthwind\LoadDHWNortwind.Data\obj\Debug\net8.0\LoadDHWNortwind.Data.sourcelink.json

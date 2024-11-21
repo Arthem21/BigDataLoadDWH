@@ -5,7 +5,7 @@ namespace LoadDHWNortwind.Data.Entidades.Northwind
     public class Region
     {
         public int RegionID { get; set; }
-        public string RegionDescription { get; set; }
+        public string? RegionDescription { get; set; }
     }
 
 }

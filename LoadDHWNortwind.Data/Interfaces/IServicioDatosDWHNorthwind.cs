@@ -10,11 +10,8 @@ namespace LoadDHWNortwind.Data.Interfaces
 {
     public interface IServicioDatosDWHNorthwind
     {
-        Task<ResultadosOperacionales> CargarDimEmpleados();
-        Task<ResultadosOperacionales> CargarDimClientes();
-        Task<ResultadosOperacionales> CargarDimFecha();
-        Task<ResultadosOperacionales> CargarDimProductos();
-        Task<ResultadosOperacionales> CargarDimCargadores();
+        Task<ResultadosOperacionales> CargarDWH();
+        
 
     }
 }
