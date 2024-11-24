@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\entidades\\northwind\\factordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\entidades\\northwind\\factordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E1DFA85-BFF2-4937-B383-C8DE8DA5F526}|LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddwhnorthwind.model\\models\\factordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E1DFA85-BFF2-4937-B383-C8DE8DA5F526}|LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj|solutionrelative:loaddwhnorthwind.model\\models\\factordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\servicios\\serviciodatosdwhnorthwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\servicios\\serviciodatosdwhnorthwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\contextos\\northwindcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\contextos\\northwindcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\entidades\\dwhnorthwind\\factordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\entidades\\dwhnorthwind\\factordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DFA85-BFF2-4937-B383-C8DE8DA5F526}|LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddwhnorthwind.model\\models\\factordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1DFA85-BFF2-4937-B383-C8DE8DA5F526}|LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj|solutionrelative:loaddwhnorthwind.model\\models\\factordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\contextos\\dwhnorthwindcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +21,54 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E1DFA85-BFF2-4937-B383-C8DE8DA5F526}|LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddwhnorthwind.model\\models\\dwhnorthwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E1DFA85-BFF2-4937-B383-C8DE8DA5F526}|LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj|solutionrelative:loaddwhnorthwind.model\\models\\dwhnorthwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1DFA85-BFF2-4937-B383-C8DE8DA5F526}|LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddwhnorthwind.model\\loaddwhnorthwind.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E1DFA85-BFF2-4937-B383-C8DE8DA5F526}|LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj|solutionrelative:loaddwhnorthwind.model\\loaddwhnorthwind.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\entidades\\northwind\\factorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\entidades\\northwind\\factorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\entidades\\northwind\\customers_x_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\entidades\\northwind\\customers_x_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C6AE5C-B3EA-4008-9C36-344FB974234A}|LoadDWHNorthwind.WorkerService\\LoadDWHNorthwind.WorkerService.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddwhnorthwind.workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C6AE5C-B3EA-4008-9C36-344FB974234A}|LoadDWHNorthwind.WorkerService\\LoadDWHNorthwind.WorkerService.csproj|solutionrelative:loaddwhnorthwind.workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\entidades\\dwhnorthwind\\dimfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\entidades\\dwhnorthwind\\dimfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\entidades\\dwhnorthwind\\dimcargadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\entidades\\dwhnorthwind\\dimcargadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\entidades\\dwhnorthwind\\dimclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\entidades\\dwhnorthwind\\dimclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\entidades\\dwhnorthwind\\dimproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\entidades\\dwhnorthwind\\dimproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\entidades\\dwhnorthwind\\factclientesatendidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\entidades\\dwhnorthwind\\factclientesatendidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddhwnortwind.data\\contextos\\northwindcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E27275A-9A29-49AC-A4C6-713C2F60724E}|LoadDHWNortwind.Data\\LoadDHWNorthwind.Data.csproj|solutionrelative:loaddhwnortwind.data\\contextos\\northwindcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C6AE5C-B3EA-4008-9C36-344FB974234A}|LoadDWHNorthwind.WorkerService\\LoadDWHNorthwind.WorkerService.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddwhnorthwind.workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C6AE5C-B3EA-4008-9C36-344FB974234A}|LoadDWHNorthwind.WorkerService\\LoadDWHNorthwind.WorkerService.csproj|solutionrelative:loaddwhnorthwind.workerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C6AE5C-B3EA-4008-9C36-344FB974234A}|LoadDWHNorthwind.WorkerService\\LoadDWHNorthwind.WorkerService.csproj|c:\\users\\maxim\\onedrive\\documentos\\tareas\\cuatrimestre #4\\electiva 1 (big data)\\loaddwhnorthwind\\loaddwhnorthwind.workerservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51C6AE5C-B3EA-4008-9C36-344FB974234A}|LoadDWHNorthwind.WorkerService\\LoadDWHNorthwind.WorkerService.csproj|solutionrelative:loaddwhnorthwind.workerservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,64 +83,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FactOrdenes.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\Northwind\\FactOrdenes.cs",
-              "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Entidades\\Northwind\\FactOrdenes.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\Northwind\\FactOrdenes.cs*",
-              "RelativeToolTip": "LoadDHWNortwind.Data\\Entidades\\Northwind\\FactOrdenes.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T03:00:46.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DWHNorthwindContexto.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Contextos\\DWHNorthwindContexto.cs",
-              "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Contextos\\DWHNorthwindContexto.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Contextos\\DWHNorthwindContexto.cs",
-              "RelativeToolTip": "LoadDHWNortwind.Data\\Contextos\\DWHNorthwindContexto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T02:59:09.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FactOrdenes.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.Model\\Models\\FactOrdenes.cs",
-              "RelativeDocumentMoniker": "LoadDWHNorthwind.Model\\Models\\FactOrdenes.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.Model\\Models\\FactOrdenes.cs",
-              "RelativeToolTip": "LoadDWHNorthwind.Model\\Models\\FactOrdenes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T02:58:51.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DWHNorthwindContext.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.Model\\Models\\DWHNorthwindContext.cs",
-              "RelativeDocumentMoniker": "LoadDWHNorthwind.Model\\Models\\DWHNorthwindContext.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.Model\\Models\\DWHNorthwindContext.cs",
-              "RelativeToolTip": "LoadDWHNorthwind.Model\\Models\\DWHNorthwindContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA9wCEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T02:58:39.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ServicioDatosDWHNorthwind.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Servicios\\ServicioDatosDWHNorthwind.cs",
               "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Servicios\\ServicioDatosDWHNorthwind.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Servicios\\ServicioDatosDWHNorthwind.cs",
-              "RelativeToolTip": "LoadDHWNortwind.Data\\Servicios\\ServicioDatosDWHNorthwind.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Servicios\\ServicioDatosDWHNorthwind.cs*",
+              "RelativeToolTip": "LoadDHWNortwind.Data\\Servicios\\ServicioDatosDWHNorthwind.cs*",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAAAFkBAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T01:21:13.759Z",
               "EditorCaption": ""
@@ -104,15 +96,202 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "DWHNorthwindContexto.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Contextos\\DWHNorthwindContexto.cs",
+              "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Contextos\\DWHNorthwindContexto.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Contextos\\DWHNorthwindContexto.cs",
+              "RelativeToolTip": "LoadDHWNortwind.Data\\Contextos\\DWHNorthwindContexto.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:59:09.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FactOrdenes.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.Model\\Models\\FactOrdenes.cs",
+              "RelativeDocumentMoniker": "LoadDWHNorthwind.Model\\Models\\FactOrdenes.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.Model\\Models\\FactOrdenes.cs",
+              "RelativeToolTip": "LoadDWHNorthwind.Model\\Models\\FactOrdenes.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:58:51.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactOrdenes.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\FactOrdenes.cs",
+              "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\FactOrdenes.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\FactOrdenes.cs",
+              "RelativeToolTip": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\FactOrdenes.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:21:18.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DWHNorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.Model\\Models\\DWHNorthwindContext.cs",
+              "RelativeDocumentMoniker": "LoadDWHNorthwind.Model\\Models\\DWHNorthwindContext.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.Model\\Models\\DWHNorthwindContext.cs",
+              "RelativeToolTip": "LoadDWHNorthwind.Model\\Models\\DWHNorthwindContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:58:39.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoadDWHNorthwind.Model",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj",
+              "RelativeDocumentMoniker": "LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj",
+              "RelativeToolTip": "LoadDWHNorthwind.Model\\LoadDWHNorthwind.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T20:39:18.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customers_x_Employees.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\Northwind\\Customers_x_Employees.cs",
+              "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Entidades\\Northwind\\Customers_x_Employees.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\Northwind\\Customers_x_Employees.cs",
+              "RelativeToolTip": "LoadDHWNortwind.Data\\Entidades\\Northwind\\Customers_x_Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:21:59.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FactOrders.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\Northwind\\FactOrders.cs",
+              "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Entidades\\Northwind\\FactOrders.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\Northwind\\FactOrders.cs",
+              "RelativeToolTip": "LoadDHWNortwind.Data\\Entidades\\Northwind\\FactOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:00:46.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.WorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "LoadDWHNorthwind.WorkerService\\Program.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.WorkerService\\Program.cs",
+              "RelativeToolTip": "LoadDWHNorthwind.WorkerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:45:03.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DimFecha.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimFecha.cs",
+              "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimFecha.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimFecha.cs",
+              "RelativeToolTip": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimFecha.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:22:46.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DimClientes.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimClientes.cs",
+              "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimClientes.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimClientes.cs",
+              "RelativeToolTip": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:22:52.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DimCargadores.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimCargadores.cs",
+              "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimCargadores.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimCargadores.cs",
+              "RelativeToolTip": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimCargadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:22:57.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DimProductos.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimProductos.cs",
+              "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimProductos.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimProductos.cs",
+              "RelativeToolTip": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\DimProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:22:38.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "NorthwindContexto.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Contextos\\NorthwindContexto.cs",
               "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Contextos\\NorthwindContexto.cs",
               "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Contextos\\NorthwindContexto.cs",
               "RelativeToolTip": "LoadDHWNortwind.Data\\Contextos\\NorthwindContexto.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAYwJAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T02:59:12.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T02:59:12.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FactClientesAtendidos.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\FactClientesAtendidos.cs",
+              "RelativeDocumentMoniker": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\FactClientesAtendidos.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\FactClientesAtendidos.cs",
+              "RelativeToolTip": "LoadDHWNortwind.Data\\Entidades\\DWHNorthwind\\FactClientesAtendidos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:24:49.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.WorkerService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LoadDWHNorthwind.WorkerService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.WorkerService\\appsettings.Development.json",
+              "RelativeToolTip": "LoadDWHNorthwind.WorkerService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T04:44:58.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.WorkerService\\Worker.cs",
+              "RelativeDocumentMoniker": "LoadDWHNorthwind.WorkerService\\Worker.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\tareas\\cuatrimestre #4\\Electiva 1 (Big Data)\\LoadDWHNorthwind\\LoadDWHNorthwind.WorkerService\\Worker.cs",
+              "RelativeToolTip": "LoadDWHNorthwind.WorkerService\\Worker.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:45:14.775Z"
             }
           ]
         }

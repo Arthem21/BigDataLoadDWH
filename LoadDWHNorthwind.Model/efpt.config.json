@@ -15,8 +15,8 @@
    "T4TemplatePath": null,
    "Tables": [
       {
-         "Name": "[DWH].[FactOrdenes]",
-         "ObjectType": 3
+         "Name": "[DHW].[FactOrdenes]",
+         "ObjectType": 0
       }
    ],
    "UiHint": null,

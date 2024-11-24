@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LoadDHWNorthwind.Data.Entidades.Northwind
 {
-    public class FactOrdenes
+    public class FactOrders
     {
         public int OrdenID { get; set; }
 

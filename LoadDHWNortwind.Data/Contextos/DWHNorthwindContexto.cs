@@ -1,23 +1,35 @@
-﻿using LoadDHWNortwind.Data.Entidades.DWHNorthwind;
+﻿using LoadDHWNorthwind.Data.Entidades.DWHNorthwind;
+using LoadDHWNortwind.Data.Entidades.DWHNorthwind;
 using Microsoft.EntityFrameworkCore;
 
 
 public partial class DWHNorthwindContexto : DbContext
 {
+    public DWHNorthwindContexto()
+    {
+    }
+
     public DWHNorthwindContexto(DbContextOptions<DWHNorthwindContexto> options)
         : base(options)
     {
     }
 
-    public virtual DbSet<DimCargadores> DimCargadores { get; set; }
+    #region DBSets
+    public DbSet<DimCargadores> DimCargadores { get; set; }
 
-    public virtual DbSet<DimClientes> DimClientes { get; set; }
+    public   DbSet<DimClientes> DimClientes { get; set; }
 
-    public virtual DbSet<DimEmpleados> DimEmpleados { get; set; }
+    public   DbSet<DimEmpleados> DimEmpleados { get; set; }
 
-    public virtual DbSet<DimFecha> DimFecha { get; set; }
+    public   DbSet<DimFecha> DimFecha { get; set; }
 
-    public virtual DbSet<DimProductos> DimProductos { get; set; }
+    public   DbSet<DimProductos> DimProductos { get; set; }
+
+    public   DbSet<FactClientesAtendidos> FactClientesAtendidos { get; set; }
+
+    public   DbSet<FactOrdenes> FactOrdenes { get; set; }
+
+    #endregion
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -114,6 +126,29 @@ public partial class DWHNorthwindContexto : DbContext
             entity.Property(e => e.Producto)
                 .IsRequired()
                 .HasMaxLength(50);
+        });
+
+        modelBuilder.Entity<FactClientesAtendidos>(entity =>
+        {
+            entity.HasKey(e => e.FactClientesAtendidosKey);
+
+            entity.ToTable("FactClientesAtendidos", "DHW");
+
+            entity.Property(e => e.Nombre).HasMaxLength(50);
+        });
+
+        modelBuilder.Entity<FactOrdenes>(entity =>
+        {
+            entity.HasKey(e => e.FactOrdenesKey);
+
+            entity.ToTable("FactOrdenes", "DHW");
+
+            entity.HasIndex(e => new { e.FactOrdenesKey, e.OrdenID }, "idx_orderid");
+
+            entity.Property(e => e.Ciudad).HasMaxLength(20);
+            entity.Property(e => e.Pais).HasMaxLength(20);
+            entity.Property(e => e.Precio).HasColumnType("money");
+            entity.Property(e => e.Region).HasMaxLength(20);
         });
 
         OnModelCreatingPartial(modelBuilder);

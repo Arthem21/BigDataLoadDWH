@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LoadDHWNorthwind.Data.Entidades.Northwind
 {
-    public class ClientesAtendidosPorEmpleado
+    public class Customers_x_Employees
     {
         public int EmployeeID { get; set; }
 

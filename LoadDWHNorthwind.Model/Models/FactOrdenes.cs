@@ -7,25 +7,27 @@ namespace LoadDWHNorthwind.Model.Models;
 
 public partial class FactOrdenes
 {
-    public int OrdenID { get; set; }
+    public int FactOrdenesKey { get; set; }
 
-    public string ClienteID { get; set; }
+    public int? OrdenID { get; set; }
 
-    public int ProductoID { get; set; }
+    public int? ClienteID { get; set; }
+
+    public int? ProductoID { get; set; }
 
     public int? EmpleadoID { get; set; }
 
-    public DateTime? Fecha { get; set; }
+    public int? FechaPedido { get; set; }
 
-    public int? CargadorID { get; set; }
+    public int? Cargador { get; set; }
 
-    public string CiudadID { get; set; }
+    public string Ciudad { get; set; }
 
-    public string PaisID { get; set; }
+    public string Pais { get; set; }
 
-    public string RegionID { get; set; }
+    public string Region { get; set; }
 
-    public decimal? TotalVentas { get; set; }
+    public decimal? Precio { get; set; }
 
-    public int? Cantidad { get; set; }
+    public short? Cantidad { get; set; }
 }

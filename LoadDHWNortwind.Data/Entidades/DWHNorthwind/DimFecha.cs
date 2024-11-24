@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
+﻿
 
 
 namespace LoadDHWNortwind.Data.Entidades.DWHNorthwind
@@ -10,7 +6,7 @@ namespace LoadDHWNortwind.Data.Entidades.DWHNorthwind
     public class DimFecha
     {
         public int DimFechaKey { get; set; }
-        public int OrdenFecha { get; set; }
+        public int OrdenFecha { get; set; } = 0;
         public DateTime Fecha { get; set; }
         public string? NombreFecha { get; set; }
         public int Año { get; set; }

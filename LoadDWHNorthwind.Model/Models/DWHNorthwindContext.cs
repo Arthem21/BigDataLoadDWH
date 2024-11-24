@@ -19,18 +19,16 @@ public partial class DWHNorthwindContext : DbContext
     {
         modelBuilder.Entity<FactOrdenes>(entity =>
         {
-            entity
-                .HasNoKey()
-                .ToView("FactOrdenes", "DWH");
+            entity.HasKey(e => e.FactOrdenesKey);
 
-            entity.Property(e => e.CiudadID).HasMaxLength(15);
-            entity.Property(e => e.ClienteID)
-                .HasMaxLength(5)
-                .IsFixedLength();
-            entity.Property(e => e.Fecha).HasColumnType("datetime");
-            entity.Property(e => e.PaisID).HasMaxLength(15);
-            entity.Property(e => e.RegionID).HasMaxLength(15);
-            entity.Property(e => e.TotalVentas).HasColumnType("money");
+            entity.ToTable("FactOrdenes", "DHW");
+
+            entity.HasIndex(e => new { e.FactOrdenesKey, e.OrdenID }, "idx_orderid");
+
+            entity.Property(e => e.Ciudad).HasMaxLength(20);
+            entity.Property(e => e.Pais).HasMaxLength(20);
+            entity.Property(e => e.Precio).HasColumnType("money");
+            entity.Property(e => e.Region).HasMaxLength(20);
         });
 
         OnModelCreatingPartial(modelBuilder);

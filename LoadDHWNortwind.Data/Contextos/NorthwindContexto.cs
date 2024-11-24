@@ -14,13 +14,13 @@ namespace LoadDHWNortwind.Data.Contexto
 
         public   DbSet<Category> Categories { get; set; }
 
-        public   DbSet<ClientesAtendidosPorEmpleado> ClientesAtendidosPorEmpleado { get; set; }
+        public   DbSet<Customers_x_Employees> Customers_x_Employees { get; set; }
 
         public   DbSet<Customer> Customers { get; set; }
 
         public   DbSet<Employee> Employees { get; set; }
 
-        public   DbSet<FactOrdenes> FactOrdenes { get; set; }
+        public   DbSet<FactOrders> FactOrdenes { get; set; }
 
         public   DbSet<OrderDetail> Order_Details { get; set; }
 
@@ -49,7 +49,7 @@ namespace LoadDHWNortwind.Data.Contexto
                 entity.Property(e => e.Picture).HasColumnType("image");
             });
 
-            modelBuilder.Entity<ClientesAtendidosPorEmpleado>(entity =>
+            modelBuilder.Entity<Customers_x_Employees>(entity =>
             {
                 entity
                     .HasNoKey()
@@ -128,7 +128,7 @@ namespace LoadDHWNortwind.Data.Contexto
                     .HasConstraintName("FK_Employees_Employees");
             });
 
-            modelBuilder.Entity<FactOrdenes>(entity =>
+            modelBuilder.Entity<FactOrders>(entity =>
             {
                 entity
                     .HasNoKey()
